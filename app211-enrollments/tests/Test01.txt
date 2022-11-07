@@ -1,0 +1,16 @@
+ Computing.print();
+ --------------------------------
+   App211: Course Details
+ --------------------------------
+
+ Course Code: BT1CTG1: Bsc Computing
+
+Student Amir = new Student("Amir", 22135972);
+Amir.enrol(Computing);
+Amir.printCourse();
+ --------------------------------
+   App211: Course Details
+ --------------------------------
+
+ Course Code: BT1CTG1: Bsc Computing
+
